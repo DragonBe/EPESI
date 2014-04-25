@@ -19,3 +19,6 @@ modules/*
 
 # IDE dirs/files
 .idea
+
+# Automated builds
+build/
